@@ -5,6 +5,7 @@ Simple Contact Form.
 How do WordPress plugin work?
 
 After activating the plugin [scf] shortcode will be available, also user list will be added, which will be empty.
+
 [scf] - Simple Contact Form
 
 The shortcode can be added to any page or post. It also creates block for classic editor, which makes it more convenient  to use.
