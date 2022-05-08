@@ -11,4 +11,5 @@ The shortcode can be added to any page or post. It also creates block for classi
 After adding the shortcode you can see a form, which includes text, email,date, checkbox file fields .
 It is necessary to fill  all of the fields of the form.
 After filling and saving the dashboard, in contact form you can see users data.
+
 Dashboard -> Contact Form
